@@ -75,7 +75,7 @@ This project was built to:
 
 ## 🔹 Example Screenshot
 
-
+*(Add an image of your calculator window here when ready)*
 
 ---
 
