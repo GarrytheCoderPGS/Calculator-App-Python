@@ -1,11 +1,11 @@
-# 🧮 Calculator App
+# 🧮 $${\color{green}Calculator App}$$
 
-A sleek and functional **Calculator App** built in **Python** using **PySide6** (and optionally **Tkinter**).
+A sleek and functional **Calculator App** built in **Python** using **PySide6**.
 This project is intended **for educational purposes only** and as part of my **personal programming portfolio**.
 
 ---
 
-## 📖 Overview
+## 📖 $${\color{blue}Overview}$$
 
 The Calculator App provides a simple and user-friendly interface to perform essential arithmetic operations such as:
 
@@ -18,7 +18,7 @@ It demonstrates the fundamentals of GUI programming in Python using modern libra
 
 ---
 
-## ⚙️ Features
+## ⚙️ $${\color{lightblue}Features}$$
 
 * GUI built with **PySide6** (Qt for Python)
 * Optional **Tkinter** version for simplicity
@@ -29,7 +29,7 @@ It demonstrates the fundamentals of GUI programming in Python using modern libra
 
 ---
 
-## 🧰 Requirements
+## 🧰 $${\color{yellow}Requirements}$$
 
 * **Python 3.10+**
 * **PySide6** (install via `pip install PySide6`)
@@ -37,7 +37,7 @@ It demonstrates the fundamentals of GUI programming in Python using modern libra
 
 ---
 
-## 🚀 How to Run
+## 🚀 $${\color{lightgreen}How \space to \space Run}$$
 
 1. Clone or download this repository:
 
@@ -62,7 +62,7 @@ It demonstrates the fundamentals of GUI programming in Python using modern libra
 
 ---
 
-## 🧠 Educational Purpose
+## 🧠 $${\color{orange}Educational \space Purpose}$$
 
 This project was built to:
 
@@ -75,11 +75,11 @@ This project was built to:
 
 ## 🔹 Example Screenshot
 
-*(Add an image of your calculator window here when ready)*
+
 
 ---
 
-## ⚖️ License
+## ⚖️ $${\color{red}License}$$
 
 This project is licensed under the **MIT License**.
 You are free to use, copy, modify, and distribute this software under the terms of the MIT License.
